@@ -2,7 +2,7 @@
 #include <Wire.h>
 #include  <Chrono.h>
 
-String sensorId = "5f52921d3775d34cd1748ef1";
+String sensorId = "************";
 
 //##### srever ota
 #include <HTTPClient.h>
@@ -10,7 +10,7 @@ String sensorId = "5f52921d3775d34cd1748ef1";
 
 #define USE_SERIAL Serial
 
-String serverAddress = "http://51.89.107.34:8000/fermentrack/";
+String serverAddress = "**********";
 const String sVersion = "0.2/";
 
 
