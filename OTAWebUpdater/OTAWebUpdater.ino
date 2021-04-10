@@ -5,8 +5,8 @@
 #include <Update.h>
 
 const char* host = "esp32";
-const char* ssid = "mokkula_789340";
-const char* password = "1Y8BNB7R939";
+const char* ssid = "****************";
+const char* password = "************";
 
 WebServer server(80);
 
