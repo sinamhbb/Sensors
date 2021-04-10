@@ -8,7 +8,7 @@
 
 #define USE_SERIAL Serial
 
-String serverAddress = "http://51.195.19.158:8000/fermentrackMlx/";
+String serverAddress = "***********************************";
 const String sVersion = "0.3/";
 
 bool isTimeToUpdate = true;
