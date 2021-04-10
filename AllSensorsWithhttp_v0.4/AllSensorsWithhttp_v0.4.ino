@@ -10,7 +10,7 @@ String sensorId = "";
 
 #define USE_SERIAL Serial
 
-String serverAddress = "http://51.195.19.158:8000/fermentrackBme/";
+String serverAddress = "*******************";
 const String sVersion = "0.4/";
 
 
